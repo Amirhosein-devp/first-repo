@@ -1,0 +1,70 @@
+.firstdiv {
+  margin-top: 8px;
+}
+
+.firstbottom {
+  margin-right: 6px;
+  padding-left: 5px;
+  width: 65px;
+  height: 30px;
+  background-color: rgb(14, 73, 211);
+  color: white;
+  border-radius: 7px;
+  border-color: none;
+  border-width: 0px;
+  text-align: right;
+  font-size: 17px;
+}
+.firstlink {
+  color: gray;
+  text-decoration: none;
+  margin-right: 3px;
+  font-size: 17px;
+}
+.secondlink {
+  color: gray;
+  text-decoration: none;
+  margin-right: 3px;
+  font-size: 17px;
+}
+.picture {
+  margin: 0 auto;
+  display: block;
+}
+#searchbox {
+  width: 550px;
+  height: 50px;
+  border-radius: 30px;
+  border-width: 1px;
+  border-color: gray;
+  background-color: rgb(246, 246, 246);
+  position: center;
+  display: block;
+  margin: 0 auto;
+}
+.secbottom {
+  width: 130px;
+  height: 35px;
+  border-color: none;
+  border-width: 0px;
+  border-radius: 8px;
+  background-color: rgb(242, 245, 248);
+  margin: 7px auto;
+  display: block;
+  color: rgb(57, 57, 57);
+  display: inline;
+  margin-right: 3px;
+}
+.thirdbottom {
+  width: 130px;
+  height: 35px;
+  border-color: none;
+  border-width: 0px;
+  border-radius: 8px;
+  background-color: rgb(242, 245, 248);
+  margin: 7px auto;
+  display: block;
+  color: rgb(57, 57, 57);
+  display: inline;
+  margin-left: 3px;
+}
